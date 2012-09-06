@@ -1,0 +1,15 @@
+Build.PL
+Changes
+LICENSE
+MANIFEST
+MANIFEST.SKIP
+META.json
+META.yml
+README
+dist.ini
+lib/File/Append/Undoable.pm
+t/00-compile.t
+t/append.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
+weaver.ini
